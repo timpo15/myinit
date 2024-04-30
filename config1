@@ -1,0 +1,3 @@
+/usr/bin/sleep 1000 /tmp/in1 /tmp/out1
+/usr/bin/sleep 2000 /tmp/in2 /tmp/out2
+/usr/bin/sleep 3000 /tmp/in3 /tmp/out3
